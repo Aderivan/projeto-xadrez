@@ -1,7 +1,7 @@
 ﻿using tabuleiro;
 using xadrez_console.tabuleiro.Enum;
 
-namespace xadrez_console.xadrez
+namespace xadrez
 {
     class Rei : Peca
     {
